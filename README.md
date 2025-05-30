@@ -1,6 +1,4 @@
-==============================================
-    MySystemMonitor – Sistem Kapanma ve Performans Paneli
-==============================================
+MySystemMonitor – Sistem Kapanma ve Performans Paneli
 
 Sürüm: 1.2.0  
 Geliştirici: Kerem  
